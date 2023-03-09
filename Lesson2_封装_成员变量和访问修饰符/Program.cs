@@ -28,8 +28,19 @@
             //Console.WriteLine("Hello, World!");
 
             Console.WriteLine(default(int));
-            //× Console.WriteLine(default(Person.pet));
-            Person.pet = new Pet();
+            //× Console.WriteLine(default(Person.pet)); Person.pet是错误的不知为啥，知道了，需要先把类实例化成对象
+            //× Person.pet = new Pet();  Person.pet是错误的不知为啥，知道了，需要先把类实例化成对象
+
+            //正确的√
+            Person p = new Person();
+            p.pet = new Pet();
+
+            //接上面，如下即使示例化了之后的写法是错误的，因为pp是变量，不是类型，Pet和Person是类型
+            //Person p;
+            //Pet pp;
+            //× Console.WriteLine(default(pp));
+            Console.WriteLine(default(Person));//正确的√
+            Console.WriteLine(default(Pet));//正确的√
         }
     }
 }

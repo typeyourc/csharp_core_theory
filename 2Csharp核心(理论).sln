@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson1_封装_类和对象", "Lesson1\Lesson1_封装_类和对象.csproj", "{FB5AE86F-28CD-451B-B732-C3C608A828F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_封装_成员变量和访问修饰符", "Lesson2_封装_成员变量和访问修饰符\Lesson2_封装_成员变量和访问修饰符.csproj", "{B86D7E03-5F0D-465A-8D95-A9E6F99F7EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson2_封装_成员变量和访问修饰符", "Lesson2_封装_成员变量和访问修饰符\Lesson2_封装_成员变量和访问修饰符.csproj", "{B86D7E03-5F0D-465A-8D95-A9E6F99F7EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_练习", "Lesson2_练习\Lesson2_练习.csproj", "{C23CA586-C161-4332-8C69-CDDE6897A9D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B86D7E03-5F0D-465A-8D95-A9E6F99F7EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B86D7E03-5F0D-465A-8D95-A9E6F99F7EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B86D7E03-5F0D-465A-8D95-A9E6F99F7EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23CA586-C161-4332-8C69-CDDE6897A9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23CA586-C161-4332-8C69-CDDE6897A9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23CA586-C161-4332-8C69-CDDE6897A9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23CA586-C161-4332-8C69-CDDE6897A9D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

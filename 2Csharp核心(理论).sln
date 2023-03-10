@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_封装_成员方法
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_练习", "Lesson3_练习\Lesson3_练习.csproj", "{950C9F16-C4F7-443D-A6EF-3DB651EDCA1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_封装_构造函数和析构函数", "Lesson4_封装_构造函数和析构函数\Lesson4_封装_构造函数和析构函数.csproj", "{47FDE1C6-9E6D-4CF8-A01E-D215781E2CA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{950C9F16-C4F7-443D-A6EF-3DB651EDCA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{950C9F16-C4F7-443D-A6EF-3DB651EDCA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{950C9F16-C4F7-443D-A6EF-3DB651EDCA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FDE1C6-9E6D-4CF8-A01E-D215781E2CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FDE1C6-9E6D-4CF8-A01E-D215781E2CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FDE1C6-9E6D-4CF8-A01E-D215781E2CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FDE1C6-9E6D-4CF8-A01E-D215781E2CA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

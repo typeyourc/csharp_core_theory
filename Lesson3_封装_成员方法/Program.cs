@@ -29,7 +29,7 @@ namespace Lesson3_封装_成员方法
                 {
                     p1[i] = friends[i];
                 }
-                p1[p1.Length] = p;
+                p1[p1.Length - 1] = p;
                 friends = p1;
             }
         }
@@ -50,6 +50,7 @@ namespace Lesson3_封装_成员方法
             Person person2 = new Person();
             person2.name = "Test2";
 
+            //注意下面这句，不能直接写  person.friends[0] = person1;，必须先new
             person.friends= new Person[1];
             person.friends[0] = person1;
 

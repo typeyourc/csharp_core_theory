@@ -57,11 +57,11 @@
         public Ticket(ulong distance)
         {
             this.distance = distance;
-            this.price = GetPrice();
+            price = GetPrice();
         }
 
         //成员参数
-        public float GetPrice()
+        private float GetPrice()
         {
             if (distance <= 100)
             {

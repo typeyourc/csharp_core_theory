@@ -30,8 +30,8 @@ namespace Lesson5_封装_成员属性
         //打招呼成员方法
         public void SayHello()
         {
-            Console.WriteLine("我的名字叫{0}，今年{1}岁了，性别是{2}", name, age, sex);
-            Console.WriteLine("总分数为{0}，平均分为{1}", (scoreOfCsharp + scoreOfUnity) * 1.0f, (scoreOfCsharp + scoreOfUnity) / 2.0f);
+            Console.WriteLine("我的名字叫{0}，今年{1}岁了，性别是{2}", name, age, sex);//这里age用Age也可以，sex用Sex也可以
+            Console.WriteLine("总分数为{0}，平均分为{1}", (scoreOfCsharp + scoreOfUnity) * 1.0f, (scoreOfCsharp + scoreOfUnity) / 2.0f);//这里成员变量改成成员属性也可以
         }
         //年龄成员属性
         public int Age

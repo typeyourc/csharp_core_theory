@@ -217,7 +217,7 @@ namespace Lesson6_练习
             //    Console.WriteLine(array[array1][i]);
             //}
 
-            //删
+            //删-----------------------------------------
             int[] array3 = array[5, true];
             if (array3 != null)
             {

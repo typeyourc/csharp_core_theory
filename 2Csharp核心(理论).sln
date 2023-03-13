@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8_封装_静态类和
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_封装_拓展方法", "Lesson9_封装_拓展方法\Lesson9_封装_拓展方法.csproj", "{9F492D09-BC1F-4F60-9D4F-B690E8BAA5FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10_封装_运算符重载", "Lesson10_封装_运算符重载\Lesson10_封装_运算符重载.csproj", "{33C84D31-C81B-4AF5-A6F4-FD81D642BD3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9F492D09-BC1F-4F60-9D4F-B690E8BAA5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F492D09-BC1F-4F60-9D4F-B690E8BAA5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F492D09-BC1F-4F60-9D4F-B690E8BAA5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C84D31-C81B-4AF5-A6F4-FD81D642BD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C84D31-C81B-4AF5-A6F4-FD81D642BD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C84D31-C81B-4AF5-A6F4-FD81D642BD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C84D31-C81B-4AF5-A6F4-FD81D642BD3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

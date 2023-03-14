@@ -2,12 +2,20 @@
 {
     class People
     {
-        public string name;
-        public int age;
+        public string Name
+        {
+            get;
+            set;
+        }
+        public int Age
+        {
+            get;
+            set;
+        }
 
         public void Speak()
         {
-            Console.WriteLine("我是{0}", name);
+            Console.WriteLine("我是{0}", Name);
         }
     }
     class Warrior : People
@@ -24,7 +32,7 @@
         {
 
             Warrior w = new Warrior();
-            w.name = "战士";
+            w.Name = "战士";
        
             w.Speak();
             w.Atk();

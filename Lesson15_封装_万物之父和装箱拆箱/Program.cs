@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Hello, World!");
+
+            object a = 1;
+            int b = (int)a;
+
+            object c = new int[88];
+            int[] d = c as int[];
+
         }
     }
 }

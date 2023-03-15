@@ -31,9 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson10_封装_运算符�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson11_封装_内部类和分部类", "Lesson11_封装_内部类和分部类\Lesson11_封装_内部类和分部类.csproj", "{46A4614F-C3D2-4643-8B71-6D9030119E3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试专用", "测试专用\测试专用.csproj", "{4481B966-E042-4F24-8E3C-251140BB3305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "测试专用", "测试专用\测试专用.csproj", "{4481B966-E042-4F24-8E3C-251140BB3305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12_继承_继承的基本规则", "Lesson12_继承_继承的基本规则\Lesson12_继承_继承的基本规则.csproj", "{59537948-EA02-450B-A9BB-3BD8E35AA87B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson12_继承_继承的基本规则", "Lesson12_继承_继承的基本规则\Lesson12_继承_继承的基本规则.csproj", "{59537948-EA02-450B-A9BB-3BD8E35AA87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13_继承_里式替换原则", "Lesson13_继承_里式替换原则\Lesson13_继承_里式替换原则.csproj", "{8D6421BC-CF6B-48BE-82C6-4475581CA58E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13_练习", "Lesson13_练习\Lesson13_练习.csproj", "{A2B8EC9A-A223-44B0-9953-6037CE752E2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{59537948-EA02-450B-A9BB-3BD8E35AA87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59537948-EA02-450B-A9BB-3BD8E35AA87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59537948-EA02-450B-A9BB-3BD8E35AA87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6421BC-CF6B-48BE-82C6-4475581CA58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6421BC-CF6B-48BE-82C6-4475581CA58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6421BC-CF6B-48BE-82C6-4475581CA58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6421BC-CF6B-48BE-82C6-4475581CA58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B8EC9A-A223-44B0-9953-6037CE752E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B8EC9A-A223-44B0-9953-6037CE752E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B8EC9A-A223-44B0-9953-6037CE752E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B8EC9A-A223-44B0-9953-6037CE752E2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

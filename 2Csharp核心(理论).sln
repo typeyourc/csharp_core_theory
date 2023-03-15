@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "测试专用", "测试专�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson12_继承_继承的基本规则", "Lesson12_继承_继承的基本规则\Lesson12_继承_继承的基本规则.csproj", "{59537948-EA02-450B-A9BB-3BD8E35AA87B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13_继承_里式替换原则", "Lesson13_继承_里式替换原则\Lesson13_继承_里式替换原则.csproj", "{8D6421BC-CF6B-48BE-82C6-4475581CA58E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13_继承_里式替换原则", "Lesson13_继承_里式替换原则\Lesson13_继承_里式替换原则.csproj", "{8D6421BC-CF6B-48BE-82C6-4475581CA58E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13_练习", "Lesson13_练习\Lesson13_练习.csproj", "{A2B8EC9A-A223-44B0-9953-6037CE752E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13_练习", "Lesson13_练习\Lesson13_练习.csproj", "{A2B8EC9A-A223-44B0-9953-6037CE752E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14_继承_继承中的构造函数", "Lesson14_继承_继承中的构造函数\Lesson14_继承_继承中的构造函数.csproj", "{EA367A4C-A8D5-41B3-9EAC-7CE6995F6E44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{A2B8EC9A-A223-44B0-9953-6037CE752E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2B8EC9A-A223-44B0-9953-6037CE752E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2B8EC9A-A223-44B0-9953-6037CE752E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA367A4C-A8D5-41B3-9EAC-7CE6995F6E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA367A4C-A8D5-41B3-9EAC-7CE6995F6E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA367A4C-A8D5-41B3-9EAC-7CE6995F6E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA367A4C-A8D5-41B3-9EAC-7CE6995F6E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

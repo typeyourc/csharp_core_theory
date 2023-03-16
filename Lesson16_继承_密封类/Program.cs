@@ -1,5 +1,8 @@
 ﻿namespace Lesson16_继承_密封类
 {
+
+    ////这个练习没有做出来
+
     class Car
     {
         public float speed;
@@ -8,12 +11,12 @@
         public People[] peoples;
         public int capacity;
 
-        public Car()
+        public Car(int totalPeople, People[] peoples)
         {
             speed = 1.0f;
             maxSpeed = 8.0f;
-            totalPeople = 0;
-            peoples = new People[] { };
+            this.totalPeople = totalPeople;
+            this.peoples = peoples;
             capacity = 20;
         }
 
@@ -29,6 +32,7 @@
     }
     class People : Car
     {
+        public People(totalPeople,)
         public void GoOnCar(People p)
         {
             peoples[totalPeople] = p;
@@ -70,6 +74,8 @@
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
+
+            ///这个练习没有做出来
             Car car = new Car();
             People p1 = new People();
             p1.GoOnCar(p1);

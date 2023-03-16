@@ -4,6 +4,7 @@
     //练习三
     class Shape
     {
+   
         public virtual void Area()
         {
 

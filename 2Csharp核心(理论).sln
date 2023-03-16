@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson16_继承_密封类",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17_多态_vob", "Lesson17_多态_vob\Lesson17_多态_vob.csproj", "{CF0029BC-BDD4-47AC-A001-EA71394C282C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18_多态_抽象类和抽象方法", "Lesson18_多态_抽象类和抽象方法\Lesson18_多态_抽象类和抽象方法.csproj", "{8699E0C3-A668-49BC-A680-2CAABB8BC295}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{CF0029BC-BDD4-47AC-A001-EA71394C282C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF0029BC-BDD4-47AC-A001-EA71394C282C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF0029BC-BDD4-47AC-A001-EA71394C282C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8699E0C3-A668-49BC-A680-2CAABB8BC295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8699E0C3-A668-49BC-A680-2CAABB8BC295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8699E0C3-A668-49BC-A680-2CAABB8BC295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8699E0C3-A668-49BC-A680-2CAABB8BC295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

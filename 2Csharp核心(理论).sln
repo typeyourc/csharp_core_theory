@@ -39,9 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13_继承_里式替�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13_练习", "Lesson13_练习\Lesson13_练习.csproj", "{A2B8EC9A-A223-44B0-9953-6037CE752E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14_继承_继承中的构造函数", "Lesson14_继承_继承中的构造函数\Lesson14_继承_继承中的构造函数.csproj", "{EA367A4C-A8D5-41B3-9EAC-7CE6995F6E44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson14_继承_继承中的构造函数", "Lesson14_继承_继承中的构造函数\Lesson14_继承_继承中的构造函数.csproj", "{EA367A4C-A8D5-41B3-9EAC-7CE6995F6E44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15_封装_万物之父和装箱拆箱", "Lesson15_封装_万物之父和装箱拆箱\Lesson15_封装_万物之父和装箱拆箱.csproj", "{3BF56F96-6483-4B43-A493-3FA6D60A1017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson15_继承_万物之父和装箱拆箱", "Lesson15_封装_万物之父和装箱拆箱\Lesson15_继承_万物之父和装箱拆箱.csproj", "{3BF56F96-6483-4B43-A493-3FA6D60A1017}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

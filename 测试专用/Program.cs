@@ -13,7 +13,7 @@
             TestFun(1, 2, 3, 4f, 2.3, "123", new Son());
         }
 
-        //验证用万物之父object多类型多参数传递
+        //(勿删!!!)验证用万物之父object多类型多参数传递
         static void TestFun(params object[] array)
         {
             for (int i = 0; i < array.Length; i++)

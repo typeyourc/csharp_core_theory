@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson23_面向对象相关
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试专用4", "测试专用4\测试专用4.csproj", "{402C7726-B7FF-4B44-B456-7C066CFAECBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson24_面向对象相关_StringBuilder", "Lesson24_面向对象相关_StringBuilder\Lesson24_面向对象相关_StringBuilder.csproj", "{E4729BB1-B631-4F67-8738-8814BC420269}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{402C7726-B7FF-4B44-B456-7C066CFAECBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{402C7726-B7FF-4B44-B456-7C066CFAECBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{402C7726-B7FF-4B44-B456-7C066CFAECBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4729BB1-B631-4F67-8738-8814BC420269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4729BB1-B631-4F67-8738-8814BC420269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4729BB1-B631-4F67-8738-8814BC420269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4729BB1-B631-4F67-8738-8814BC420269}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
